@@ -1,0 +1,19 @@
+{
+  "name": "prajapati-handicrafts",
+  "version": "1.0.0",
+  "description": "Handmade authentic woolen hats selling ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm build test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajzprz/PrajapatiHandicrafts.git"
+  },
+  "author": "ajaya prajapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajzprz/PrajapatiHandicrafts/issues"
+  },
+  "homepage": "https://github.com/ajzprz/PrajapatiHandicrafts#readme"
+}
